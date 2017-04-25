@@ -1,4 +1,3 @@
-from gtts import gTTS
 from os import urandom
 from sys import byteorder
 from time import sleep
